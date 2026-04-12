@@ -3,7 +3,7 @@ layout: default
 title: Home
 hero: true
 hero_title: Wyatt Braman
-hero_subtitle: I am an engineer, earning my B.S. in Chemical Engineering from the University of Wisconsin - Madison. 
+hero_subtitle: Chemical Engineer | Technical Leader
 ---
 
 <section class="cta">
@@ -47,7 +47,6 @@ hero_subtitle: I am an engineer, earning my B.S. in Chemical Engineering from th
 <section>
   <h2>About Me</h2>
   <p>
-    I'm a developer passionate about building clean, user-friendly applications.
-    I focus on writing maintainable code and creating intuitive user experiences.
+    I earned my B.S. in Chemical Engineering from the University of Wisconsin - Madison. I currently work at 3M as a process engineering intern. I drive continuous improvement and root-cause troubleshooting to optimize processes.
   </p>
 </section>
