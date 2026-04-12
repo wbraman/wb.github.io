@@ -10,7 +10,7 @@ hero_subtitle: I am an engineer, earning my B.S. in Chemical Engineering from th
   <a href="/projects.html" class="btn">View My Work</a>
   <a href="/contact.html" class="btn secondary">Contact Me</a>
 </section>
-
+<!---
 <section>
   <h2>Featured Projects</h2>
 
@@ -31,6 +31,7 @@ hero_subtitle: I am an engineer, earning my B.S. in Chemical Engineering from th
     </div>
   </div>
 </section>
+--->
 
 <section>
   <h2>Skills</h2>
