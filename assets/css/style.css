@@ -1,0 +1,55 @@
+/* BUTTONS */
+.cta {
+  margin-bottom: 2rem;
+}
+
+.btn {
+  display: inline-block;
+  background: #4f46e5;
+  color: white;
+  padding: 0.7rem 1.4rem;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-right: 1rem;
+  font-weight: 500;
+}
+
+.btn:hover {
+  background: #4338ca;
+}
+
+.btn.secondary {
+  background: #e5e7eb;
+  color: #111827;
+}
+
+/* PROJECT GRID */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+/* SKILLS */
+.skills {
+  margin-top: 1rem;
+}
+
+.skills span {
+  display: inline-block;
+  background: #eef2ff;
+  color: #3730a3;
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  margin: 0.3rem;
+  font-size: 0.9rem;
+}
+
+/* HEADINGS SPACING */
+section {
+  margin-bottom: 3rem;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
