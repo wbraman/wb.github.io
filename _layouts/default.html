@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="container nav-content">
+      <h1 class="logo">YourName</h1>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/projects.html">Projects</a>
+        <a href="/about.html">About</a>
+        <a href="/contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO (optional per page) -->
+  {% if page.hero %}
+  <section class="hero">
+    <div class="container">
+      <h2>{{ page.hero_title }}</h2>
+      <p>{{ page.hero_subtitle }}</p>
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- MAIN CONTENT -->
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container">
+      <p>© {{ site.time | date: '%Y' }} YourName</p>
+    </div>
+  </footer>
+
+</body>
+</html>
