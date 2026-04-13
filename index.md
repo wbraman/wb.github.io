@@ -39,8 +39,24 @@ hero_subtitle: Chemical Engineer | Technical Leader
     <span>JavaScript</span>
     <span>Python</span>
     <span>HTML/CSS</span>
-    <span>React</span>
-    <span>Git</span>
+    <span>Process design</span>
+<span>Process synthesis</span>
+<span>Mass and energy balances</span>
+<span>Thermodynamics</span>
+<span>Reaction kinetics</span>
+<span>Aspen simulations</span>
+<span>Excel equations</span>
+<span>Separation processes</span>
+<span>Adsorption</span>
+<span>Transport phenomena</span>
+<span>Experimental design</span>
+<span>Data analysis</span>
+<span>Process sustainability analysis</span>
+<span>Technical reports and presentations</span>
+<span>Circuit design</span>
+<span>Mechanical assembly and optimization</span>
+<span>Troubleshooting</span>
+<span>Hardware integration</span>
   </div>
 </section>
 
