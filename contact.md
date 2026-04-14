@@ -17,7 +17,7 @@ If you'd like to connect, collaborate, or learn more about my background, feel f
 
 ### 💼 LinkedIn
 
-https://www.linkedin.com/in/wyattbraman
+[Visit My LinkedIn](https://www.linkedin.com/in/wyatt-braman)
 
 ---
 
