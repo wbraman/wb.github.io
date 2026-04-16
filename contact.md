@@ -20,19 +20,3 @@ If you'd like to connect, collaborate, or learn more about my background, feel f
 [Visit My LinkedIn](https://www.linkedin.com/in/wyatt-braman)
 
 ---
-
-## Send a Message
-
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <label for="name">Name</label><br>
-  <input type="text" name="name" required><br><br>
-
-<label for="email">Email</label><br> <input type="email" name="email" required><br><br>
-
-<label for="message">Message</label><br>
-
-  <textarea name="message" rows="5" required></textarea><br><br>
-
-<button type="submit">Send Message</button>
-
-</form>
