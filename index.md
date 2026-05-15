@@ -5,7 +5,12 @@ hero: true
 hero_title: Wyatt Braman
 hero_subtitle: Chemical Engineer | Technical Leader
 ---
-
+<section>
+  <h2>About Me</h2>
+  <p>
+  I currently work with 3M as a contract process engineer. I drive continuous improvement and root-cause troubleshooting to optimize processes.   I earned my B.S. in Chemical Engineering from the University of Wisconsin - Madison. 
+  </p>
+</section>
 <section class="cta">
   <a href="/projects.html" class="btn">View My Work</a>
   <a href="/contact.html" class="btn secondary">Contact Me</a>
@@ -60,9 +65,4 @@ hero_subtitle: Chemical Engineer | Technical Leader
   </div>
 </section>
 
-<section>
-  <h2>About Me</h2>
-  <p>
-    I earned my B.S. in Chemical Engineering from the University of Wisconsin - Madison. I currently work at 3M as a process engineering intern. I drive continuous improvement and root-cause troubleshooting to optimize processes.
-  </p>
-</section>
+
