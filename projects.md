@@ -13,7 +13,7 @@ hero_subtitle: Academic, Personal, and Professional Projects
   <div class="card">
     <h3>TR-830 - Intrinsically Safe PAPR Battery Housing</h3>
     <p>
-      Overhauled workflow to improve tracability and free up technician bandwitdh.
+      Overhauled workflow to improve tracability and free up technician bandwidth.
     </p>
     <a href="/mmmproject1.html">View Details →</a>
   </div>
