@@ -15,7 +15,7 @@ hero_subtitle: Academic, Personal, and Professional Projects
     <p>
       Overhauled workflow to improve tracability and free up technician bandwidth.
     </p>
-    <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/664ebaeb-d48b-4b14-8770-2a410476310b" />
+    <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/664ebaeb-d48b-4b14-8770-2a410476310b" />
 
     <a href="/mmmproject1.html">View Details →</a>
   </div>
