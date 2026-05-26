@@ -54,7 +54,7 @@ hero_subtitle: Academic, Personal, and Professional Projects
 
     <a href="/fpmproject2.html">View Details →</a>
   </div>
-  
+   </div>
 ## Undergraduate Academic Design
 
 <div class="projects-grid">
