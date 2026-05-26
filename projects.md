@@ -25,6 +25,8 @@ hero_subtitle: Academic, Personal, and Professional Projects
     <p>
       Modified control structure of process water chiller to keep the press online even under high thermal load.
     </p>
+    <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/a012f6b0-717d-42e7-9dd4-f4124a1ab314" />
+
     <a href="/mmmproject2.html">View Details →</a>
   </div>
 
