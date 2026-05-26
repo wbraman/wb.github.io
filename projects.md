@@ -21,29 +21,6 @@ hero_subtitle: Academic, Personal, and Professional Projects
   </div>
 
   <div class="card">
-    <h3>Revit Drafting/h3>
-    <p>
-      Used 3D CAD tools to effectively connect computer models to real-world layouts
-    </p>
-
-    <a href="/fpmproject2.html">View Details →</a>
-  </div>
-  
-## UW-Madison Facilities Planning & Management Facilities Engineer
-
-<div class="projects-grid">
-
-  <div class="card">
-    <h3>TR-830 - Intrinsically Safe PAPR Battery Housing</h3>
-    <p>
-      Overhauled workflow to improve tracability and free up technician bandwidth.
-    </p>
-    <img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/664ebaeb-d48b-4b14-8770-2a410476310b" />
-
-    <a href="/mmmproject1.html">View Details →</a>
-  </div>
-
-  <div class="card">
     <h3>Swan - Dishwand Cap</h3>
     <p>
       Modified control structure of process water chiller to keep the press online even under high thermal load.
@@ -54,6 +31,29 @@ hero_subtitle: Academic, Personal, and Professional Projects
   </div>
   
 </div>
+  
+## UW-Madison Facilities Planning & Management Facilities Engineer
+
+<div class="projects-grid">
+
+  <div class="card">
+    <h3>DynamoBIM Automatic Project Closeouts</h3>
+    <p>
+      Developed and implemented scripts to standardize and streamline completion of construction documents
+    </p>
+
+    <a href="/fpmproject1.html">View Details →</a>
+  </div>
+
+
+  <div class="card">
+    <h3>Revit Drafting/h3>
+    <p>
+      Used 3D CAD tools to effectively connect computer models to real-world layouts
+    </p>
+
+    <a href="/fpmproject2.html">View Details →</a>
+  </div>
 ## Undergraduate Academic Design
 
 <div class="projects-grid">
