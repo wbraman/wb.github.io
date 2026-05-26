@@ -47,7 +47,7 @@ hero_subtitle: Academic, Personal, and Professional Projects
 
 
   <div class="card">
-    <h3>Revit Drafting/h3>
+    <h3>Revit Drafting</h3>
     <p>
       Used 3D CAD tools to effectively connect computer models to real-world layouts
     </p>
