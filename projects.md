@@ -41,6 +41,8 @@ hero_subtitle: Academic, Personal, and Professional Projects
       Designed a theoretical process converting waste cooking grease into
       naphthene fuels.
     </p>
+    <img width="284" height="160" alt="image" src="https://github.com/user-attachments/assets/dfe2d25e-4b71-41d4-a318-ec70a04f86a5" />
+
     <a href="/project1.html">View Details →</a>
   </div>
 
